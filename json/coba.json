@@ -1,0 +1,24 @@
+[
+    {   
+    "nama" : "Udin",
+    "umur" : 21,
+    "nrp" : "021312",
+    "lulus" : true,
+    "hobby" : ["makan", "minum"],
+    "pembimbing" : {
+        "pembimbing1" : "yowes",
+        "pembimbing2" : "lord"
+    }
+},
+{   
+    "nama" : "Udin",
+    "umur" : 21,
+    "nrp" : "021312",
+    "lulus" : true,
+    "hobby" : ["makan", "minum"],
+    "pembimbing" : {
+        "pembimbing1" : "ok",
+        "pembimbing2" : "lord"
+    }   
+}
+]
